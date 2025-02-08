@@ -31,8 +31,9 @@ GitHub Link: https://github.com/DanielVKrastev/painting-shop-with-firebase , Dem
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielvkrastev&show_icons=true&locale=en&layout=compact" alt="danielvkrastev" /></p>
+<br><br><br><br><br><br><br><br>
 
 ## 🙋‍♂️ Hobbies:
 - **Self-development, likes to travels, riding a bikes and motorbikes, drawing a pictures.**
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielvkrastev&show_icons=true&locale=en&layout=compact" alt="danielvkrastev" /></p>
