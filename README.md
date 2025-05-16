@@ -6,10 +6,11 @@
 - Bachelor’s Degree at Technical University Varna  (2020 - 2024)
 
 ## 🔭 Projects:
-- **Developing a website that specializes in motorcycle rentals and tours – Technical University project** - Developed motorbike rental and tours website using PHP and MySQL. Booking management, viewing available motorcycles and moto tours, and emailing are some of the functionalities. The system allows easy administration and integrates secure payment methods. The used languages are HTML, CSS, PHP, MySQL and JavaScript.
-Demo: https://motokrastev.com/
-- **Painting Shop – personal project** - Developed a Single Page Application for selling paintings, implemented as an end-to-end solution. The project utilized Vanilla JavaScript, Firebase for backend services and hosting, Bootstrap for responsive styling, Page.js for client-side routing, Lit-html for templating, and Vite for modern bundling and development workflows.
-GitHub Link: https://github.com/DanielVKrastev/painting-shop-with-firebase , Demo: https://painting-shop-krasteva.web.app/
+- **MotoKrastev - Rent a motorcycle - SoftUni Project** - A React-based application than allows users to rent a motorcycle. The users can register, login, search and browse motorcycle details. Also users can create, edit and delete reviews for current motorcycle. The project uses the Express server to handle backend operations and data management.
+GitHub Link: <a href="https://github.com/DanielVKrastev/rent-a-motorcycle-react-project-2025" target="_blank">GitHub Repo</a> , Demo: <a href="https://moto-krastev-rentals.web.app/" target="_blank">MotoKrastev</a>.
+- **Krasteva Art Studio - Art Sales Project** - A React-based web application for showcasing and selling artworks. Users can browse the portfolio, search forspecific pieces, place orders, and send messages to the administration.
+The project uses the Firebase server to handle backend operations and data management.
+GitHub Link: <a href="https://github.com/DanielVKrastev/Krasteva-Art-Studio" target="_blank">GitHub Repo</a> , Demo: <a href="https://krasteva-art-studio.firebaseapp.com/" target="_blank">Krasteva Art Studio</a>
 
 ## 🌐 Connect with me:
 <p align="left">
